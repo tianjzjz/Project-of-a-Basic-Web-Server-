@@ -1,0 +1,1 @@
+::1 - - [12/Mar/2020:19:35:21 +0000] "GET /api/blog/detail?id=3 HTTP/1.0" 304 - "http://localhost:8080/detail.html?id=3" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36"
